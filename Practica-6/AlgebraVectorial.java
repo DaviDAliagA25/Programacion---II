@@ -1,5 +1,4 @@
 package algebravectorial;
-
 /*
  * @author DAVID
  */
